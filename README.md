@@ -2,7 +2,7 @@
 史上最简单的微博SDK
 
 [![CocoaPods](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=flat-square)](#)
-[![Libraries.io for releases](https://img.shields.io/librariesio/release/hex/phoenix/1.0.3.svg)](http://docs.python-requests.org/en/master/user/quickstart/)
+[![Python](https://img.shields.io/badge/Python-2.7-green.svg)](#)
 
 ---
 ###用法
