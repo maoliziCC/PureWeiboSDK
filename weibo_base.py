@@ -4,7 +4,7 @@
 """
  Verion: 1.0
  Author: zhangjian
- Site: http://iliangqunru.com
+ Site: http://unkown.com
  File: weibo_base.py
  Time: 2016/10/19 21:31
 """
